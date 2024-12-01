@@ -1,0 +1,5 @@
+{
+    "editor.inlineSuggest.edits.experimental.enabled": true,
+    "dart.previewFlutterUiGuides": false,
+    "dart.previewFlutterUiGuidesCustomTracking": false
+}
